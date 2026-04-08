@@ -160,5 +160,6 @@ Add this image to your repo (recommended path: `assets/output.png`) and referenc
 * Python 🐍
 
 ---
-
+OUTPUT
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4d39eeef-ba9b-4b10-ae6e-01cdaed1433d" />
 
